@@ -1,6 +1,5 @@
-<p align="center">
-  <a href="https://github.com/actions/typescript-action/actions"><img alt="typescript-action status" src="https://github.com/actions/typescript-action/workflows/build-test/badge.svg"></a>
-</p>
+![Build](https://github.com/tamilsweet/auto-release-draft/workflows/Build/badge.svg)
+![Test](https://github.com/tamilsweet/auto-release-draft/workflows/Test/badge.svg)
 
 # Create a JavaScript Action using TypeScript
 
